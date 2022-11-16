@@ -30,5 +30,5 @@ Use the command line (bash terminal) and git/GitHub to do the following:
 <li>Add</li>
 <li>Commit</li>
 <li>Push</li>
-<li>Submit your GitHub link</li>
 </ol>
+<p>Finally, submit your GitHub link to finish the assignment.</p>
